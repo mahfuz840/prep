@@ -1,0 +1,10 @@
+1. Pipe problem (DFS)   -done
+2. Graph COloring	-done
+3. TrVELING salesman	
+4. Men's Restroom
+5. Shooting Game	-done
+6. Calculate day of the week
+7. Construct Binary tree summing it's nodes	-parmu
+8. BST that returns the size of the largest Subtree
+9. Research Team	-solution
+10. Cow problem (Bin Search)	-done
